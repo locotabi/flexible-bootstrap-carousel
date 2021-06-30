@@ -21,7 +21,7 @@
   "homepage": "https://github.com/DanDevG/flexible-bootstrap-carousel#readme",
   "dependencies": {
     "jquery": ">=1.11.1",
-    "bootstrap": ">=3.0.0"
+    "bootstrap": "locotabi/bootstrap#fix-to-use-math-div-of-sass-for-v4.6.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
